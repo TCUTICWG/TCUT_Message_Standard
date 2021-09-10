@@ -1,2 +1,2 @@
-# TCUT_test
-Test project for TCUT message standard
+# TCUT
+Repository for TCUT message standard schema files.
